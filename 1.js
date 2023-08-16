@@ -11,4 +11,6 @@ beforeLeave(el) {
 leave(el, done) {
     console.log('leave');
     done();
-},
+
+
+    1111
